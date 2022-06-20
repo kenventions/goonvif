@@ -19,6 +19,7 @@ import (
 )
 
 func RunApi() {
+	//funny code fixes
 	router := gin.Default()
 
 	router.POST("/:service/:method", func(c *gin.Context) {
