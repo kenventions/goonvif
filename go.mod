@@ -7,7 +7,6 @@ require (
 	github.com/gin-gonic/gin v1.8.1
 	github.com/kenventions/WS-Discovery v0.0.0-20220620011209-6602db670801
 	github.com/yakovlevdmv/Golang-iso8601-duration v0.0.0-20180403125811-e5db0413b903
-	github.com/kenventions/goonvif v0.0.0-20180517145634-8181eb3ef2fb
 	github.com/yakovlevdmv/gosoap v0.0.0-20180512142237-299a954b1c6d
 )
 
@@ -26,7 +25,6 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/ugorji/go/codec v1.2.7 // indirect
-	github.com/yakovlevdmv/WS-Discovery v0.0.0-20180512141937-16170c6c3677 // indirect
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
 	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
