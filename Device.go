@@ -12,8 +12,8 @@ import (
 
 	"github.com/beevik/etree"
 	WS_Discovery "github.com/kenventions/WS-Discovery"
-	"github.com/yakovlevdmv/goonvif/Device"
-	"github.com/yakovlevdmv/goonvif/networking"
+	"github.com/kenventions/goonvif/Device"
+	"github.com/kenventions/goonvif/networking"
 	"github.com/yakovlevdmv/gosoap"
 )
 

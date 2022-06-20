@@ -13,8 +13,8 @@ import (
 	"github.com/beevik/etree"
 	"github.com/gin-gonic/gin"
 	WS_Discovery "github.com/kenventions/WS-Discovery"
-	"github.com/yakovlevdmv/goonvif"
-	"github.com/yakovlevdmv/goonvif/networking"
+	"github.com/kenventions/goonvif"
+	"github.com/kenventions/goonvif/networking"
 	"github.com/yakovlevdmv/gosoap"
 )
 
